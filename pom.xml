@@ -5,8 +5,10 @@
   <version>0.0.1-SNAPSHOT</version>
      <properties>
         <maven.compiler.release>11</maven.compiler.release>
+        
     </properties>
- 
+    
+    
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
@@ -15,5 +17,6 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+
  
 </project>
