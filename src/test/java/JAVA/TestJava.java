@@ -14,7 +14,7 @@ public class TestJava {
 			assertEquals (12,result);
 	}
 	
-	//JUnit Test case for finding Perimeterof rectangle 
+	//JUnit Test case for finding Perimeter of rectangle 
 	@Test
 	public void rectangle_perimetertest() { 
 		int result= Perimeter_area.rectangle_perimeter(2,3);
