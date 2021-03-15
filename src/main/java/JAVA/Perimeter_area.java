@@ -3,12 +3,12 @@ package JAVA;
 import java.util.Scanner;
 
 public class Perimeter_area {
-	static int Square_area(int l)
+	static int Square_area(int l)  
 	{
 		return(l*l);
 	}
 	
-	static int Square_perimeter(int l)
+	static int Square_perimeter(int l) 
 	{
 		return(4*l);
 	}
