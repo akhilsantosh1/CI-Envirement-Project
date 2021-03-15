@@ -22,7 +22,7 @@ public class TestJava {
 	@Test
 	public void square_area_test() { 
 		int result= Perimeter_area.Square_area(2);
-		assertEquals (3,result);
+		assertEquals (4,result);
 	}
 	
 	@Test
