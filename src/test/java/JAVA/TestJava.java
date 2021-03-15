@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class Java_tests {
+public class TestJava {
 	Perimeter_area junit= new Perimeter_area(); 
 
 	@Test
@@ -22,7 +22,7 @@ public class Java_tests {
 	@Test
 	public void square_area_test() { 
 		int result= Perimeter_area.Square_area(2);
-		assertEquals (3,result);
+		assertEquals (4,result);
 	}
 	
 	@Test
