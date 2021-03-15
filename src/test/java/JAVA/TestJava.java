@@ -7,7 +7,7 @@ import org.junit.Test;
 public class TestJava {
 	Perimeter_area junit= new Perimeter_area();  
 
-	//JUnit Test case for finding Area of rectangle 
+	//JUnit test case for finding Area of rectangle 
 	@Test
 	public void rectangle_area_test() { 
 			int result= Perimeter_area.rectangle_area(3,4);
