@@ -28,7 +28,7 @@ public class TestJava {
 		assertEquals (4,result);
 	}
 	
-	//JUnit Test case for finding Perimeter of a Square 
+	//JUnit Test case for finding perimeter of the square
 	@Test
 	public void square_perimeter_test() {
 		int result= Perimeter_area.Square_perimeter(4);
