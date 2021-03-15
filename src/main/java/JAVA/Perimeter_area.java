@@ -38,5 +38,6 @@ public class Perimeter_area {
 	System.out.println("The area and perimeter of rectangle is:");  // area and perimeter of the rectangle result 
 	System.out.println(rectangle_area(l,b));
 	System.out.println(rectangle_perimeter(l,b));
+	System.out.println("test akhil");
 }
 }
