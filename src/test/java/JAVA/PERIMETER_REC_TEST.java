@@ -10,7 +10,7 @@ public class PERIMETER_REC_TEST {
 		public void rectangle_perimetertest() {
 			Perimeter_area junit= new Perimeter_area(); 
 			int result= Perimeter_area.rectangle_perimeter(2,3);
-			assertEquals (15,result);
+			assertEquals (10,result);
 	}
 
 }
