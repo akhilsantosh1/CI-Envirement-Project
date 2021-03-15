@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Perimeter_area {
 	static int Square_area(int l)  //calculates and returns the area of Square
 	{
-		return(1*l);
+		return(l*l);
 	}
 	
 	static int Square_perimeter(int l) //calculates and returns the Perimeter of Square
