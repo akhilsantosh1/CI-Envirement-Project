@@ -16,7 +16,7 @@ public class Perimeter_area {
 	static int rectangle_perimeter(int l,int b)
 	{
 		return(2*(l+b));
-	
+	}
 	
 	static int rectangle_area(int l,int b)
 	{
