@@ -27,9 +27,9 @@ public class CALCULATOR {
 		public static void main(String[] args) {
 		int l,b;
 		Scanner s = new Scanner(System.in);
-		System.out.println("Enter the length of the square");  // Manual input for length of square 
+		System.out.println("Enter the length of the square to check ci");  // Manual input for length of square 
 		l =s.nextInt();
-		System.out.println("The area and perimeter of square is:"); // area and perimeter of square result 
+		System.out.println("The area and perimeter of square:"); // area and perimeter of square result 
 		System.out.println(Square_area(l));
 		System.out.println(Square_perimeter(l));
 		System.out.println("Enter the length of the rectangle");  //manual input for length of rectangle 
