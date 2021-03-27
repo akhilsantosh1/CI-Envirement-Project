@@ -16,7 +16,7 @@ public class CALCULATOR {
 		
 		static int rectangle_perimeter(int l,int b) //calculates and returns the perimeter of rectangle 
 		{
-			return(2*(l+b));
+			return(4*(l+b));
 		}
 		
 		static int rectangle_area(int l,int b)   //calculates and returns the area of rectangle 
