@@ -4,7 +4,25 @@ import java.util.Scanner;
 public class CALCULATOR {
 
 	public static class Perimeter_area {
-
+		static int Square_area(int l)  //calculates and returns the area of Square
+		{
+			return(l*l);
+		}
+		
+		static int Square_perimeter(int l) //calculates and returns the Perimeter of Square
+		{
+			return(4*l);
+		}
+		
+		static int rectangle_perimeter(int l,int b) //calculates and returns the perimeter of rectangle 
+		{
+			return(2*(l+b));
+		}
+		
+		static int rectangle_area(int l,int b)   //calculates and returns the area of rectangle 
+		{
+			return(l*b);
+		}
 
 		public static void main(String[] args) {
 		int l,b;
