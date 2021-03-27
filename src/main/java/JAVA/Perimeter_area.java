@@ -8,7 +8,7 @@ public class Perimeter_area {
 		return(l*l);
 	}
 	
-	static int Square_perimeter(int l) //calculates and returns the Perimeter of Square
+	static int Square_perimeter(int l) //calculates and returns the perimeter of Square
 	{
 		return(4*l);
 	}
